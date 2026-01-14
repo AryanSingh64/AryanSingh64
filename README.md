@@ -30,9 +30,8 @@ Some are polished, some are rough but all of them taught me something.
 - Music is always playing while I code
 - I overthink designs more than logic sometimes
 
-If you like clean design, honest learning journeys, or just building cool stuff.
-
-##Welcome to my Github
+If you like clean design, honest learning journeys, or just building cool stuff...
+### Welcome to my Github
 <!--
 **AryanSingh64/AryanSingh64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
