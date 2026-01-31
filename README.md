@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there!%20👋&fontAlign=50&fontAlignY=40&fontSize=40)
+![Header](https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png)
 
 <h3 align="center">I'm Aryan — a web developer & designer from India 🇮🇳</h3>
 
