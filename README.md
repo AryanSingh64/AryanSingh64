@@ -1,7 +1,5 @@
 ![Header](https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png)
 
-<h3 align="center">I'm Aryan — a web developer & designer from India 🇮🇳</h3>
-
 <p align="center">
   <em>I like building things that actually look good and work properly.</em><br>
   Started with frontend because I love design, visuals, and motion — now slowly getting my hands dirty with backend too.
