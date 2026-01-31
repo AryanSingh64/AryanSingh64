@@ -37,15 +37,15 @@
 
 ---
 
-## 🚀 Currently
+## Currently
 
-- 📚 Learning backend properly *(no shortcuts this time)*
-- 🔨 Working on full-stack projects instead of just UI demos
-- 💡 Trying to turn ideas into real, usable products
+- Learning backend
+- Working on full-stack projects instead of just UI demos
+- Trying to turn ideas into real, usable products
 
 ---
 
-## 📂 Projects
+## Projects
 
 I've built multiple frontend projects, UI concepts, and small full-stack experiments.  
 Some are polished, some are rough — but all of them taught me something.
@@ -54,13 +54,13 @@ Some are polished, some are rough — but all of them taught me something.
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🎨 I love clean UI, smooth animations, and dark themes
-- 📺 Anime > most TV shows
-- 🎬 Horror movies, but the slow-burn, psychological kind
-- 🎧 Music is always playing while I code
-- 🤔 I overthink designs more than logic sometimes
+- I love clean UI, smooth animations, and dark themes
+- Anime > most TV shows
+- Horror movies, but the slow-burn, psychological kind
+- Music is always playing while I code
+- I overthink designs more than logic sometimes
 
 ---
 
