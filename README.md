@@ -39,8 +39,8 @@
 
 ## Currently
 
-- Learning backend
-- Working on full-stack projects instead of just UI demos
+- Learning Three.js, GSAP and TypeScript
+- Working on a cool 3D website
 - Trying to turn ideas into real, usable products
 
 ---
