@@ -40,7 +40,7 @@
 ## Currently
 
 - Learning Three.js, GSAP and TypeScript
-- Working on a cool 3D website
+- Working on a cool 3D website 
 - Trying to turn ideas into real, usable products
 
 ---
