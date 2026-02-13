@@ -1,4 +1,4 @@
-![Header](https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png)
+![Header] (https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png)
 
 <p align="center">
   <em>I like building things that actually look good and work properly.</em><br>
