@@ -1,169 +1,88 @@
 <div align="center">
-  <img src="https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png?raw=true" width="100%" alt="Header Banner" />
+  <a href="https://github.com/AryanSingh64">
+    <img src="https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png?raw=true" width="100%" alt="Aryan Singh - Header" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  </a>
 </div>
 
-<div align="center">
-  <h3>I build things that bridge logic and aesthetics.</h3>
-  <p>Started with frontend because I love design, visuals, and motion — now diving into backend infrastructure to make those visuals powerful.</p>
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A68BFF&width=435&lines=If+an+idea+sticks+in+my+head...;I+usually+build+it...;Instead+of+just+talking+about+it.++_+" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Creative+Coder;I+build+things+that+actually+look+good;Bridging+Logic+%26+Aesthetics;Turning+ideas+into+real+usable+products" alt="Typing animation" />
 </div>
 
 <br>
 
----
-
-<br>
-
-## ⚡ Tech Stack
+<h2 align="center">✦ Core Technologies ✦</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-          <br>HTML5
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-          <br>CSS3
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
-          <br>JavaScript
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-          <br>React
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next" />
-          <br>Next.js
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#frontend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-          <br>Tailwind
-        </a>
-      </td>
+  <br>
+  <table border="0" cellpadding="15">
+    <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML, CSS, JS, TS" /></td>
     </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#backend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-          <br>Node.js
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#backend">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-          <br>Express
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#database">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-          <br>MongoDB
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#database">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-          <br>Postgres
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#tools">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-          <br>Git
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="#tools">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-          <br>Figma
-        </a>
-      </td>
+    <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" alt="React, Next.js, Tailwind, Three.js" /></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB, Postgres" /></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Git, GitHub, Figma, Vercel" /></td>
     </tr>
   </table>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanSingh64&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
-</div>
-
-<br>
-
 ---
 
 <br>
 
-## 🚀 Currently Working On
-
-<p align="center">
-  <a href="https://github.com/AryanSingh64">
-    <img src="https://img.shields.io/badge/Learning-Three.js_%7C_GSAP_%7C_TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=blue" />
-  </a>
-  <a href="https://github.com/AryanSingh64">
-    <img src="https://img.shields.io/badge/Building-3D_Web_Experiences-121212?style=for-the-badge&logo=three.js&logoColor=white" />
-  </a>
-</p>
-
-*I'm turning rapid prototypes into real, usable products. I've built multiple frontend projects, UI concepts, and full-stack experiments to figure out what breaks, why it breaks, and how to make it perfectly smooth.*
-
-*(Yeah, the repo count is high. I really like experimenting.)*
-
-<br>
-
----
-
-<br>
-
-## 🌌 The Human Side
-
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="50%">
-      <b>Design Philosophy</b><br>
-      Clean UI, buttery smooth animations, and dark themes are non-negotiable. I overthink micro-interactions and design layouts much more than raw logic sometimes.
-      <br><br>
-      <b>Environment</b><br>
-      Spotify is permanently running while I code.
+    <td width="50%" valign="top">
+      <h3 align="center">About Me</h3>
+      <br>
+      <blockquote>
+        Started with frontend because I love design, visuals, and motion — now slowly getting my hands dirty with backend too.<br><br>
+        If an idea sticks in my head, I usually try to build it instead of just talking about it. Some of my projects are polished, some are rough — but all of them taught me something.<br><br>
+        <em>*(Yeah, the repo count is high. I like experimenting.)*</em>
+      </blockquote>
     </td>
-    <td width="50%">
-      <b>Culture</b><br>
-      Anime > most TV shows. I prefer psychological, slow-burn horror films over jump-scares. 
+    <td width="50%" valign="top">
+      <h3 align="center">Currently</h3>
+      <br>
+      <ul>
+        <li>🔭 <b>Working on:</b> A cool 3D website</li>
+        <li>🌱 <b>Learning:</b> Three.js, GSAP, and TypeScript</li>
+        <li>💬 <b>Ask me about:</b> React, Next.js, Framer Motion</li>
+        <li>⚡ <b>Fun Fact:</b> I overthink designs more than logic sometimes. Also, Anime > most TV shows.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
+---
+
+<br>
+
+<h2 align="center">✦ Analytics ✦</h2>
+
 <div align="center">
-  <em>If you appreciate stark design, iterative learning, or just like pushing pixels...</em><br>
-  <strong>Welcome to my digital playground. ✨</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh64&show_icons=true&theme=tokyonight&hide_border=true&title_color=A68BFF&text_color=FFFFFF&icon_color=A68BFF&bg_color=0D1117" alt="Aryan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh64&theme=tokyonight&hide_border=true&fire=A68BFF&ring=A68BFF&currStreakLabel=A68BFF&bg_color=0D1117" alt="Aryan's GitHub Streak" width="48%" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/AryanSingh64">
-    <img src="https://img.shields.io/badge/Follow_Me_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+<div align="center">
+  <i>"Music is always playing while I code."</i>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=4&width=100%" />
+</div>
