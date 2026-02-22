@@ -7,7 +7,12 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Creative+Coder;I+build+things+that+actually+look+good;Bridging+Logic+%26+Aesthetics;Turning+ideas+into+real+usable+products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=A68BFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Creative+Coder" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <h3>I build things that actually look good.</h3>
+  <p>Bridging Logic & Aesthetics | Turning ideas into real usable products.</p>
 </div>
 
 <br>
@@ -38,29 +43,22 @@
 
 <br>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">About Me</h3>
-      <br>
-      <blockquote>
-        Started with frontend because I love design, visuals, and motion — now slowly getting my hands dirty with backend too.<br><br>
-        If an idea sticks in my head, I usually try to build it instead of just talking about it. Some of my projects are polished, some are rough — but all of them taught me something.<br><br>
-        <em>*(Yeah, the repo count is high. I like experimenting.)*</em>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Currently</h3>
-      <br>
-      <ul>
-        <li>🔭 <b>Working on:</b> A cool 3D website</li>
-        <li>🌱 <b>Learning:</b> Three.js, GSAP, and TypeScript</li>
-        <li>💬 <b>Ask me about:</b> React, Next.js, Framer Motion</li>
-        <li>⚡ <b>Fun Fact:</b> I overthink designs more than logic sometimes. Also, Anime > most TV shows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+> Started with frontend because I love design, visuals, and motion — now slowly getting my hands dirty with backend too.
+>
+> If an idea sticks in my head, I usually try to build it instead of just talking about it. Some of my projects are polished, some are rough — but all of them taught me something.
+> 
+> *(Yeah, the repo count is high. I like experimenting.)*
+
+<br>
+
+## 🔭 Currently
+
+- � **Working on:** A cool 3D website
+- 🌱 **Learning:** Three.js, GSAP, and TypeScript
+- 💬 **Ask me about:** React, Next.js, Framer Motion
+- ⚡ **Fun Fact:** I overthink designs more than logic sometimes. Also, Anime > most TV shows.
 
 <br>
 
@@ -71,8 +69,9 @@
 <h2 align="center">✦ Analytics ✦</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh64&show_icons=true&theme=tokyonight&hide_border=true&title_color=A68BFF&text_color=FFFFFF&icon_color=A68BFF&bg_color=0D1117" alt="Aryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh64&theme=tokyonight&hide_border=true&fire=A68BFF&ring=A68BFF&currStreakLabel=A68BFF&bg_color=0D1117" alt="Aryan's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh64&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Streak" />
 </div>
 
 <br><br>
