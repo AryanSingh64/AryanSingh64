@@ -69,7 +69,7 @@
 <h2 align="center">✦ Analytics ✦</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AryanSingh64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" /> -->
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh64&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Streak" />
 </div>
