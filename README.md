@@ -74,7 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh64&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Streak" />
 </div>
 
-<br><br>
+<br> <br>
 
 <div align="center">
   <i>"Music is always playing while I code."</i>
