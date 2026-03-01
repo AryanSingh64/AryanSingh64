@@ -2,7 +2,7 @@
   <a href="https://github.com/AryanSingh64">
     <img src="https://github.com/AryanSingh64/AryanSingh64/blob/main/github-header-banner%20(1).png?raw=true" width="100%" alt="Aryan Singh - Header" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   </a>
-</div>
+</div> 
 
 <br><br>
 
