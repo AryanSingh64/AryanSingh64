@@ -5,7 +5,7 @@
 </div> 
 
 <br><br>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=A68BFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Creative+Coder" alt="Typing animation" />
 </div>
