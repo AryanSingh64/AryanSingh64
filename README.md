@@ -33,50 +33,22 @@
 <h2 align="center">✦ Core Technologies ✦</h2>
 
 <div align="center">
-  <br>
 
-  <table border="0" cellpadding="15">
-    <tr align="center">
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"
-          alt="HTML, CSS, JavaScript, TypeScript"
-        />
-      </td>
-    </tr>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML, CSS, JavaScript, TypeScript" />
 
-    <tr align="center">
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark"
-          alt="React, Next.js, Tailwind, Three.js"
-        />
-      </td>
-    </tr>
+  <br><br>
 
-    <tr align="center">
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark"
-          alt="Node.js, Express, MongoDB, Postgres"
-        />
-      </td>
-    </tr>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" alt="React, Next.js, Tailwind CSS, Three.js" />
 
-    <tr align="center">
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark"
-          alt="Git, GitHub, Figma, Vercel"
-        />
-      </td>
-    </tr>
-  </table>
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB, PostgreSQL" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel&theme=dark" alt="Git, GitHub, Figma, Vercel" />
+
 </div>
-
-<br>
-
----
 
 <br>
 
